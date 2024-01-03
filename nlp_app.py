@@ -29,6 +29,7 @@ def main():
     classifier=data['model']
 
     form = st.form("form1")
+    st.write('Copy And Paste Article Inside The Box')
     z=form.text_area('Able to classify -"politics","sports","economics" and "climate" related articles')
     ok=form.form_submit_button("classify")
     
