@@ -1,6 +1,8 @@
 # News_article_classification_nlp
-- Problem statement link-[https://drive.google.com/file/d/1XbIkKuyUifx4BQ7IWpGYgCoNkm8yrIA-/view]
 - Click Here to view app-[https://newsarticleclassificationnlp-oajz5lfa7oaxzr7kfofezl.streamlit.app/]
+- Project demonstration video-[https://drive.google.com/file/d/1RYtWFmL24ttOsT3oHvmvYPLjC9gO4ZJ_/view?usp=sharing]
+- Problem statement link-[https://drive.google.com/file/d/1XbIkKuyUifx4BQ7IWpGYgCoNkm8yrIA-/view]
+
 ### Project Overview
 - Data or Articles from CNN News website covering various topics such as 'Politics','Economics','Sports' and 'Climate' were scraped using Beautiful Soup and Python.
 - The data was cleaned of tags,punctuation marks,converted to lowercase,removed of stopwords,performed lemmatization using the NLTK,Wordcloud packages.
